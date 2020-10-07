@@ -1,6 +1,6 @@
-package br.com.david.lavor.crudClient.controller;
+package br.com.david.lavor.brasilprevchallenge.controller;
 
-import br.com.david.lavor.crudClient.dto.Client;
+import br.com.david.lavor.brasilprevchallenge.dto.Client;
 import br.com.david.lavor.crudClient.service.ServiceCrudClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

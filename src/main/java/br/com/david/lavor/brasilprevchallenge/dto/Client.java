@@ -1,4 +1,4 @@
-package br.com.david.lavor.crudClient.dto;
+package br.com.david.lavor.brasilprevchallenge.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

@@ -1,7 +1,7 @@
 package br.com.david.lavor.crudClient.service;
 
-import br.com.david.lavor.crudClient.dto.Client;
-import br.com.david.lavor.crudClient.repository.ClientRepository;
+import br.com.david.lavor.brasilprevchallenge.dto.Client;
+import br.com.david.lavor.brasilprevchallenge.repository.ClientRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

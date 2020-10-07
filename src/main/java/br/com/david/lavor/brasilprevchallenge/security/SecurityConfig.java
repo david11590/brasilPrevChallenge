@@ -1,4 +1,4 @@
-package br.com.david.lavor.crudClient.security;
+package br.com.david.lavor.brasilprevchallenge.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
